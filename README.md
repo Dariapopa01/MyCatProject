@@ -1,10 +1,10 @@
-##Goal 
+## Goal 
 
 
 Create a command line application that saves a picture of a cat to disk. 
 
 
-##Requirements 
+## Requirements 
     
 - Retrieve a cat image from the following API:
 https://cataas.com/  
