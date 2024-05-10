@@ -16,10 +16,10 @@ https://cataas.com/
 - Support two arguments: 
 
 
-o  “-o output_filepath” : output file path to write the image to (required) 
+  - “-o output_filepath” : output file path to write the image to (required) 
 
 
-o  “-t text_to_overlay” : text to be included in the downloaded image (optional**) 
+  - “-t text_to_overlay” : text to be included in the downloaded image (optional**) 
    
 - Cat image, including overlay text if specified, should be saved to location provided in the argument 
 
